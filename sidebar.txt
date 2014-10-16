@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayc:home|Door43 (ayc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayc|d43-ayc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayc/archive/master.zip|d43-ayc.zip]]
+
+**Recent Changes**
+{{changes>ns = ayc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayc|Ethnologue data]]
+
